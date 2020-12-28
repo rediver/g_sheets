@@ -1,5 +1,3 @@
-pandas 
-tablib
-openpyxl
 gspread
+openpyxl
 pfc_handler

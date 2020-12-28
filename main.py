@@ -1,9 +1,7 @@
 from datetime import date
-import json
-import logging
-import os 
 import gspread
-
+import json
+import os 
 
 def handler(event): 
 
